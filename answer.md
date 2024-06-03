@@ -70,7 +70,7 @@ a.
 
 c.
 
-!(https://github.com/tangjy0108/112-2PC1/blob/main/ArrowHead.png?raw=true)
+![](https://github.com/tangjy0108/112-2PC1/blob/main/ArrowHead.png?raw=true)
 
 個⼈認為完成作業須具備觀念
 
