@@ -70,7 +70,7 @@ a.
 
 c.
 
-![](Aspose.Words.1a46671f-7c2d-4077-8055-91c687c9b9aa.007.jpeg)
+!(https://github.com/tangjy0108/112-2PC1/blob/main/ArrowHead.png?raw=true)
 
 個⼈認為完成作業須具備觀念
 
