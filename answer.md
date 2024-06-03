@@ -91,7 +91,7 @@ bb.
 | APP系統異常改善 | 使用APP查看異常通知內容並改善。 |
 
 
-c.
+c.使用者案例圖
 
 ![](https://github.com/tangjy0108/112-2PC1/blob/main/ArrowHead.png?raw=true)
 
