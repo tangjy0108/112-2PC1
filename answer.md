@@ -89,6 +89,8 @@ bb.
 | 回應社區公告 | 使用APP回應社區公告提供意見。 |
 | 修改與刪除公告 | 使用APP修改或刪除社區公告。 |
 | APP系統異常改善 | 使用APP查看異常通知內容並改善。 |
+
+
 c.
 
 ![](https://github.com/tangjy0108/112-2PC1/blob/main/ArrowHead.png?raw=true)
